@@ -42,7 +42,7 @@ import java.awt.image.BufferedImage;
 import java.util.concurrent.ScheduledExecutorService;
 
 @PluginDescriptor(
-	name = "Account",
+	name = "ToA",
 	description = "Sync RuneLite config settings with your Google account",
 	tags = {"external", "google", "integration"},
 	loadWhenOutdated = true
